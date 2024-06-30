@@ -9,6 +9,10 @@ const config = {
         adapter: adapter({
             fallback: 'app.html'
         }),
+        pages: 'build',
+        assets: 'build',
+        precompress: false,
+        strict: true,
         appDir: 'app'
     }
 };
