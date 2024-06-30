@@ -9,6 +9,7 @@ const config = {
         adapter: adapter({
             fallback: 'app.html'
         }),
+        appDir: 'app'
     }
 };
 
