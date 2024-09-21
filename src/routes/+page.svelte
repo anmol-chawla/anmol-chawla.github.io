@@ -1,1 +1,1 @@
-<h1>Progress in works, now in svelte 5</h1>
+<p>Progress in works, now in svelte 5</p>
